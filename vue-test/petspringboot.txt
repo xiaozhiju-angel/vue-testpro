@@ -1,0 +1,82 @@
+PET
+public Pet(){
+        super();
+    }
+
+    public Pet( String petName, String petSex,String petType,String petImg,
+                Date petrabidPrevaccin, Date petrabidNextvaccin,
+                Date petrecodTime){
+        this.petName=petName;
+        this.petSex=petSex;
+        this.petType=petType;
+        this.petImg=petImg;
+        this.petrabidPrevaccin=petrabidPrevaccin;
+        this.petrabidNextvaccin=petrabidNextvaccin;
+        this.petrecodTime=petrecodTime;
+    }
+USER
+ public User(){
+        super();
+    }
+    /* @DateTimeFormat(pattern="yyyy-MM-dd")*/
+
+
+    public User( String userName, String userSex, String userIdcard,
+                 String userTel, String userEmail, String userDoor, String userisTenant,
+                 String userLoginame,String userPass,String userProp,String userImg, Date userRegtime){
+        this.userName=userName;
+        this.userSex=userSex;
+        this.userIdcard=userIdcard;
+        this.userTel=userTel;
+        this.userEmail=userEmail;
+        this.userDoor=userDoor;
+        this.userisTenant=userisTenant;
+        this.userLoginame=userLoginame;
+        this.userPass=userPass;
+        this.userProp=userProp;
+        this.userImg=userImg;
+        this.userRegtime=userRegtime;
+    }
+STAFF
+public Staff(){
+        super();
+    }
+    /* @DateTimeFormat(pattern="yyyy-MM-dd")*/
+
+
+
+    public Staff( String staffName, String staffSex, String staffIdcard,
+                 String staffTel, String staffEmail,String staffLoginame,
+                 String staffPass,String staffProp,String staffImg, Date staffRegtime){
+        this.staffName=staffName;
+        this.staffSex=staffSex;
+        this.staffIdcard=staffIdcard;
+        this.staffTel=staffTel;
+        this.staffEmail=staffEmail;
+        this.staffLoginame=staffLoginame;
+        this.staffPass=staffPass;
+        this.staffProp=staffProp;
+        this.staffImg=staffImg;
+        this.staffRegtime=staffRegtime;
+    }
+
+ADMIN
+ public Admin(){
+        super();
+    }
+    /* @DateTimeFormat(pattern="yyyy-MM-dd")*/
+
+    public Admin( String adminName, String adminSex, String adminIdcard,
+                  String adminTel, String adminEmail,String adminLoginame,
+                  String adminPass,String adminProp, String adminImg,Date adminRegtime){
+        this.adminName=adminName;
+        this.adminSex=adminSex;
+        this.adminIdcard=adminIdcard;
+        this.adminTel=adminTel;
+        this.adminEmail=adminEmail;
+        this.adminLoginame=adminLoginame;
+        this.adminPass=adminPass;
+        this.adminProp=adminProp;
+        this.adminImg=adminImg;
+        this.adminRegtime=adminRegtime;
+    }

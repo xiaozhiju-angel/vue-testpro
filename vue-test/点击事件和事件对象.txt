@@ -1,0 +1,76 @@
+<template>
+  <div id="app">
+    <h2>{{msg}}</h2>
+    <br>
+    <button @click="run1()">执行事件的第一种写法</button>
+    <br>
+     <button @click="run2()">执行事件的第二种写法</button>
+    <br>
+    <button @click="getMsg()">获取data里面的msg</button>
+    <br>
+    <button @click="setMsg()">改变data里面的msg</button>
+    <br>
+    <button @click="requestData()">请求数据</button>
+    <hr>
+    <ul>
+      <li v-for="(item,key) in list">
+        {{key}}-----{{item}}
+      </li>
+    </ul>
+    <br>
+    <br>
+    <br>
+    <button @click="deleteData('111')">执行传值方法</button>
+    <br>
+    <button data-aid="123" @click="eventFn($event)">事件对象</button>
+
+
+  </div>
+</template>
+
+<script>
+
+export default {
+  data() {
+    return {
+      msg: "你好vue",
+      list:[]
+    }
+  },
+  methods:{
+    run1(){
+     alert('这是第一个方法');
+    },
+    run2(){
+      alert('这是另一个方法');
+
+    },
+    getMsg(){
+     alert(this.msg);
+    },
+    setMsg(){
+      this.msg='这是改变后的数据';
+      alert(this.msg);
+    },
+    //点击请求数据给list增加数据
+    requestData(){
+      for (var i = 0; i<10; i++) {
+        this.list.push("我是第"+i+"条数据");
+      }
+      },
+    deleteData(val){
+       alert(val)
+    },
+    eventFn(e){
+      console.log(e);
+      //e.srcElement dom节点
+      e.srcElement.style.background='red';
+      console.log(e.srcElement.dataset.aid);//获取自定义属性的值
+    }
+  }
+}
+</script>
+
+<style lang="scss">
+
+</style>

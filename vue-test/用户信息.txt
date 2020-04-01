@@ -1,0 +1,303 @@
+ 
+吴军	男	500243199107246141  	18896132553 	@163.com	夜风孤影	业主	006.jpg		2015-02-13	RxHYd12965						 	 
+刘晓梅	女	500243199107246141   	18896158456	asdfqwer1001 	我比你好		3.jpg		2019-01-03	RxHYd12865 
+吴成军	男	500243199107246142  	18896254585	asdfqwer1002 	神经侠侣		001.jpg	 	2019-02-03
+杨家华	男	500243199107246143   	18896145565 	asdfqwer1003 	香草女巫		002.jpg	 	2019-03-13	XdSdVd96j2
+肖杨	男	500243199107246144    	18883256655	asdfqwer1004 	善变难懂		2.jpg		2019-04-13
+罗米米	女	500243199107246145   	18896523652	asdfqwer1005  	倾城乱世		2019-01-01	2019-05-20	CdSdVd9602
+李晓琪	女	500243199107246146 	18895623256	asdfqwer1006   	碍你爱她i		2019-02-01	2019-04-29	sdsddfdfdc1248
+罗湖	男	500243199107246147 	15324562255	asdfqwer1007 	南城追浪		2019-03-01	2019-03-28
+胡世林	男	500243199107246148  	15324145215	asdfqwer1008	拥者不惜i   	2019-04-01	2019-02-26	dertgfdfdf1489
+罗敏	女	500243199207156131  	15324145558	asdfqwer1009 	共谋山河 		2019-05-01	2019-02-04
+刘启敏	女	500243199207156132   	15324584585	asdfqwer1010	暴走っ苍穹	2019-04-02	2019-02-05	frrtrytyuy1898
+董佳	女	500243199207156133  	15326684455	asdfqwer1011 	≮夏夜★之梦≯	2019-03-02	2019-02-06
+胡敏	女	500243199207156134     	17325658899	asdfqwer1012  	-飛飛，在么   	2019-02-08 	2019-02-07	dewssxvbhg1582
+陈佳慧	女	500243199207156135  	17365254588 	asdfqwer1013  	念为何物     	2019-01-02	2019-02-08 
+卢成丽 	女	500243199706226121	17325588455	asdfqwer1014 	云卷云舒		2019-01-09	2019-01-22
+吴江	男	500243199706226122	13725685452	asdfqwer1015 	醉卧笑常		2019-01-10	2019-01-23
+李璐	女	500243199706226123	15723026595	asdfqwer1016 	空城空心		2019-01-11	2019-01-24
+胡斐	男	500243199706226124	15826323233 	asdfqwer1017 	高中三年！	2019-01-12	2019-01-25
+黄晨	男	500243199706226125	18956233225	asdfqwer1018  	幼幼幼、稚	2019-01-13	2019-01-26
+韩文	男	500243198810235622	18312546255	asdfqwer1019	-罘会再爱。 	2019-01-14	2019-01-27
+罗家军	男	500243198911254555	15823225555	asdfqwer1020 	KOK灭世狂舞	2019-01-15	2019-01-28
+艾米	女	500243199001225555	15526325541	asdfqwer1021	秋凉志殇 		2019-01-16	2019-01-29
+罗非	男	500243199102215452	15325455544	asdfqwer1022 	免成孤讨		2019-01-17	2019-01-30
+陈丽英	女	500243199203156212	13758655555	asdfqwer1023	龙潇九天		2019-01-18	2019-01-31
+赵琳	女	500243199302145855	16623545889 	asdfqwer1024 	互不相扰		2019-01-19
+陈晨	男	500243198305189522	18854214555	asdfqwer1025 	亡梦伴侣		2019-01-20
+ 周密	男	500243197908144225  	17325654585	asdfqwer1026	如水流年 		2019-01-21
+邹凤玲	女	500243198608124225  	13725645888	asdfqwer1027 	性感野猫
+赵梅  	女	500243199608244225	15722545552	asdfqwer1028 	染指末年
+罗霜	女	500243199408044225	15825455552	asdfqwer1029 	夏尽时亡
+汪涵疏	女	500243199008040221	18956222345	asdfqwer1030 	深邃欲透
+董婷婷	女	500243199708064222	15845545555	asdfqwer1031	本性薄涼	
+  package com.pet.petspringboot.controller;
+吴美 	女	500243199708274223	15523554447	asdfqwer1032	醉酒湿红唇	
+殷洪梅 	女	500243199708234224	13745621110	asdfqwer1033	旧人不必等
+周菲 	女	500243199108244226	15745223354 	asdfqwer1034	纯与唇与蠢
+罗江涛 	男	500243199208214285	15823654212 	asdfqwer1035	皮卡了个丘
+秦风 	女	500243199308144275	18952632565 	asdfqwer1036	有你不贪心
+尹海军 	男	500243199408044265	13742566221	asdfqwer1037	乱世小魔女
+殷弧 	男	500243199708154525	15724266554	asdfqwer1038	笔落惊风雨
+胡双楷	男	500243199808224243	15862659569	asdfqwer1039	一见你就笑
+左华阳 	女	500243199908114227	18955444557	asdfqwer1040	从小就拉风	
+汪临 	女	500243199708200225	18955443557	asdfqwer1041	心上有块疤
+路菲汐 	女	500243199708204225	15655444557	asdfqwer1042	伪装的微笑
+陈康丽 	女	500243199708214225	16955444557	asdfqwer1043	永远有多远
+于高华 	男	500243199708044225	18855444557	asdfqwer1044	真爱与自由	
+余敏	女	500243199608054225	18755444557	asdfqwer1045	相忘尘世间
+郁封 	男	500243199208104225	15325584585	asdfqwer1046	怪咖小青年
+赵赫 	男	500243199408114225	15324584985	asdfqwer1047	纠结式、想念
+卢江	男 	500243199008134225	15304584585	asdfqwer1048	姐比甜筒甜
+陈海龙	男 	500243199908144221	15324584588	asdfqwer1049	伱獨壹無贰
+倪凤	女	500243199508204229	15325584585	asdfqwer1050	稳场萝莉控
+倪爱玲 	女	500243199308234215	17365254583	asdfqwer1051	薱伱鍀依籁
+丁苏敏 	女	500243199108240223	17365284588 	asdfqwer1052	雨落思念起
+张莹莹 	女	500243199308254025	17360254588	asdfqwer1053 	我为你倾心
+张银亿 	女	500243199403214025	17365204588 	asdfqwer1054	浅挚半离兮
+张妮	女	500243199604243224	17305254588 	asdfqwer1055	等我幼稚完
+唐代奇  	女	500243199205294021	17365250588	asdfqwer1056 	失我者永失
+戴波	男 	500243199506244425	17365256588 	asdfqwer1057	割不掉思念
+代奇骏	男	500243199107200225 	17335254588  	asdfqwer1058	执伞青衣袖
+孟少峰	男 	500243199909293225	17325254588 	asdfqwer1059	撩污酷野浪
+唐毅	男  	500243199808204225	17315254588 	asdfqwer1060	零度的忧伤
+左明月	女	500243199708221225	17368254588	asdfqwer1061 	老鼠爱上猫
+罗允	女	500243199608204225	15826023233	asdfqwer1062 	凉不过人心
+罗申龙	男  	500243199508284225	15806323233	asdfqwer1063 	国民小可爱
+唐奇阳	男	500243199408224225 	15824323233 	asdfqwer1064	野性且迷人
+董非飞	男	500243199308264225 	15896323233 	asdfqwer1065	他夏了夏天-
+覃飞	男 	500243199108284225	15826323133 	asdfqwer1066	模糊了丶记忆
+谭关林 	男	500243199808234225 	15334145215 	asdfqwer1067	薄荷味的爱
+韩飞	男	500243199908204225 	15322145215 	asdfqwer1068	我是乖乖
+陆小曼	女	500243199208210245 	15324140215 	asdfqwer1069	笑为红颜醉
+冯海 	男	500243199708240295	15324149215	asdfqwer1070 	柔情的┊思念
+唐飞	男	500243199708203245 	15323145215 	asdfqwer1071	剑圣玄冰
+罗金	男	500243199707244205 	15324145210 	asdfqwer1072	看潮起潮落
+张梅 	女	500243199706230225	15320145215	asdfqwer1073	幸福怕孤單
+张峰	男	500243199723244225 	15327145215 	asdfqwer1074	我心只有你
+孟敏 	女	500243199712244225	15364145215	asdfqwer1075	朝暮楚寒轩
+赵峰	男	500243199703246225     	15384145215  	asdfqwer1076    	紫竺弥熙兮
+
+ <template>
+  <!--物业管理员模块-->
+  <div class="middle">
+    <div style="font-size:18px;padding-top: 30px">添加员工</div>
+    <el-form  class="register_message"  label-width="100px" ref="ruleformstaff"  :model="ruleForm"  :rules="rulestaff" >
+      <div class="middle_top">
+        <div class="middle_left">
+          <el-form-item class="elformitem" label="员工姓名" prop="staffname">
+            <el-input  v-model="ruleForm.staffname"  size="mini"></el-input>
+          </el-form-item>
+          <el-form-item label="员工性别" prop="staffsex">
+            <el-radio-group v-model="ruleForm.staffsex">
+              <el-radio :label="'男'">男</el-radio>
+              <el-radio :label="'女'">女</el-radio>
+            </el-radio-group>
+          </el-form-item>
+          <el-form-item label="员工电话" prop="stafftel">
+            <el-input v-model="ruleForm.stafftel" size="mini"></el-input>
+          </el-form-item>
+          <el-form-item label="员工邮件" prop="staffemail">
+            <el-input v-model="ruleForm.staffemail" size="mini"></el-input>
+          </el-form-item>
+        </div>
+        <div class="middle_right">
+          <el-form-item prop="staffimageUrl">
+            <el-upload
+              class="avatar-uploader"
+              list-type="picture-card"
+              name="file"
+              action="http://localhost:8088//upload/uploadimg"
+              :show-file-list="false"
+              :on-success="handleAvatarSuccessstaff"
+              :before-upload="beforeAvatarUpload"
+              border>
+              <img v-if="staffimageUrl" :src="staffimageUrl" class="avatar">
+              <i v-else class="el-icon-plus avatar-uploader-icon"></i>
+            </el-upload>
+            <el-button class="imgdes" size="mini" type="plain">员工头像</el-button>
+          </el-form-item>
+        </div>
+      </div>
+      <div class="middle_bottom">
+        <div class="bottomtop">
+          <el-form-item class="bottomleft"  label="身份证号" prop="staffidcard">
+            <el-input v-model="ruleForm.staffidcard" size="mini"></el-input>
+          </el-form-item>
+          <el-form-item class="bottomright" label="用户名" prop="staffloginame">
+            <el-input  v-model="ruleForm.staffloginame"  size="mini"> </el-input>
+          </el-form-item>
+        </div>
+        <div class="bottomcenter">
+          <el-form-item class="bottomcenterleft" label="入职时间" prop="staffregtime" >
+            <el-date-picker
+              class="datetime"
+              v-model="ruleForm.staffregtime"
+              size="mini"
+              type="date"
+              @change="formatTimeStaff"
+              value-format="yyyy-MM-dd"
+              placeholder="选择日期">
+            </el-date-picker>
+          </el-form-item>
+          <el-form-item  class="pass" label="密码" prop="staffpass">
+            <el-input v-model="ruleForm.staffpass" size="mini" show-password></el-input>
+          </el-form-item>
+        </div>
+        <div class="addition">
+          <el-form-item class="left"  label="用户身份" prop="userprop">
+            <el-input  userauthor v-model="ruleForm.staffprop" size="mini" disabled></el-input>
+          </el-form-item>
+        </div>
+      </div>
+      <div class="btn_bottom">
+        <el-form-item>
+          <el-button class="btn" size="small" type="primary" @click="onsubmitstaff()">添加</el-button>
+          <el-button class="btn" size="small" plain @click="resetFormstaff()">重置</el-button>
+        </el-form-item>
+      </div>
+    </el-form>
+  </div>
+</template>
+
+<script>
+ /* import store from '../.././store/store.js'*/
+  export default {
+    data() {
+      return {
+        fileList: [],
+        staffimageUrl:'',
+        options: [{
+          value: '物业管理员',
+          label: '物业管理员'
+        }],
+        img:'',
+        ruleForm: {
+          staffprop:'物业管理员',
+          staffname:'',
+          staffsex:'',
+          staffimageUrl:'',
+          staffidcard:'',
+          stafftel:'',
+          staffemail:'',
+          staffloginame:'',
+          staffpass:'',
+          staffregtime:'',
+        },
+        rulestaff:{
+          staffname: [
+            { required: true, message: '必填:姓名',trigger: 'blur'}
+          ],
+          staffidcard: [{
+            required: true,
+            message: '必填:身份证号码',
+            trigger: 'blur'
+          }, {
+            pattern: /(^[1-9]\d{5}(18|19|([23]\d))\d{2}((0[1-9])|(10|11|12))(([0-2][1-9])|10|20|30|31)\d{3}[0-9Xx]$)|(^[1-9]\d{5}\d{2}((0[1-9])|(10|11|12))(([0-2][1-9])|10|20|30|31)\d{2}$)/,
+            message: '身份证号码格式不正确',
+            trigger: 'blur'
+          }],
+          staffemail: [{required: true, message: '必填:电子邮箱', trigger: 'blur'}, {
+            type: 'email',
+            message: '邮箱格式不正确',
+            trigger: 'blur'
+          }],
+          staffsex:[{ required: true, message: '必填:性别', trigger: 'blur' }],
+          stafftel:[{ required: true, message: '必填:电话', trigger: 'blur' }],
+          staffloginame:[{ required: true, message: '必填:用户名', trigger: 'blur' }],
+          staffpass: [
+            { required: true,min: 6,message: '最少6位数', trigger: 'blur' }
+          ],
+        },
+      };
+    },
+
+    components:{
+
+    },
+    methods: {
+      /*员工*/
+      handleChange(value){
+        this.ruleForm.staffprop=value;
+        console.log(this.ruleForm.staffprop);
+      },
+      formatTimeStaff(time){
+        this.ruleForm.staffregtime=time;
+        console.log(time)
+      },
+      staffchangesex(value){
+        this.ruleForm.staffsex=value;
+        console.log( this.ruleForm.staffsex);
+      },
+      handleAvatarSuccessstaff(res, file,filesList) {
+        this.staffimageUrl = URL.createObjectURL(file.raw);
+        /*console.log( this.staffimageUrl)*/
+        /*console.log( filesList);*/
+        /*this.img = res.filepath;
+        console.log(this.img);*/
+        this.ruleForm.staffimageUrl = res.filename; //将返回的文件储存路径赋值picture字段
+       /* console.log(this.ruleForm.staffimageUrl);*/
+        this.$store.state.imgurl=res.filepath;
+        /*console.log(this.$store.state.imgurl);*/
+      },
+      resetFormstaff(){
+        this.$refs.ruleformstaff.resetFields();
+        this.staffimageUrl='';
+      },
+      onsubmitstaff(){
+        var that=this;
+        this.$refs.ruleformstaff.validate((valid) => {
+          if (valid) {
+            var that=this;
+            this.postRequest("/staff/savestaff",{
+              staffname:this.ruleForm.staffname,
+              staffsex: this.ruleForm.staffsex,
+              staffimg: this.ruleForm.staffimageUrl,
+              staffidcard:this.ruleForm.staffidcard,
+              stafftel:this.ruleForm.stafftel,
+              staffemail:this.ruleForm.staffemail,
+              staffloginame: this.ruleForm.staffloginame,
+              staffpass: this.ruleForm.staffpass,
+              staffprop: this.ruleForm.staffprop,
+              staffregtime: this.ruleForm.staffregtime
+            }).then(response=>{
+              if (response.data.success) {
+                alert(response.data.save);
+                that.resetFormstaff();
+
+              }
+              else if(response.data.useridcard||response.data.staffidcard||response.data.adminidcard){
+                alert(response.data.idcard);
+              }
+              else if(response.data.loginamerepeat){
+                alert(response.data.repeat);
+              }
+            })
+          }
+          else {
+            console.log('请检查是否填写正确');
+            return false;
+          }
+        });
+      },
+      beforeAvatarUpload(file) {
+        const isJPG = file.type === 'image/jpeg';
+        const isGIF = file.type === 'image/gif';
+        const isPNG = file.type === 'image/png';
+        const isBMP = file.type === 'image/bmp';
+        const isLt1M = file.size / 1024 / 1024 < 1;
+
+        if (!isJPG && !isGIF && !isPNG && !isBMP) {
+          this.common.errorTip('上传图片必须是JPG/GIF/PNG/BMP 格式!');
+        }
+        if (!isLt1M) {
+          this.common.errorTip('上传图片大小不能超过 2MB!');
+        }
+        return (isJPG || isBMP || isGIF || isPNG) && isLt1M;
+      },
+    }
+  }
+</script>
+<style scoped>
+  @import '../../../static/css/staff/addstaff.css';
+</style>

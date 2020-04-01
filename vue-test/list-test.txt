@@ -1,0 +1,72 @@
+<template>
+  <div id="app">
+    <h2>你好vue</h2>
+    <br>
+    <h3>{{obj.name}}</h3>
+    <br>
+    <ul>
+       <li v-for="item in list">
+              {{item}}
+       </li>
+    </ul>
+    <br>
+    <ul>
+    <li v-for="item in list1">
+      {{item.title}}
+    </li>
+    </ul>
+    <br>
+    <ul>
+    <li v-for="item in list2">
+      {{item.cate}}
+      <ol>
+        <li v-for="news in item.list">
+             {{news.title}}
+        </li>
+      </ol>
+    </li>
+    </ul>
+  </div>
+</template>
+
+<script>
+
+export default {
+  data(){
+    return{
+      msg:"you are silly",
+      obj:{
+        name:"张三"
+      },
+      list:[111,222,333],
+      list1:[
+        {'title':'1111'},
+        {'title':'2222'},
+        {'title':'3333'},
+        {'title':'4444'}
+      ],
+      list2:[
+        {
+          "cate":"国内新闻",
+          "list":[
+            {'title':'国内新闻111'},
+            {'title':'国内新闻222'}
+           ]
+        },
+        {
+          "cate":"国际新闻",
+          "list":[
+            {'title':'国际新闻111'},
+            {'title':'国际新闻222'}
+          ]
+
+        }
+      ]
+    }
+  },
+  
+}
+</script>
+
+<style>
+</style>

@@ -1,0 +1,86 @@
+<template>
+  <div id="app">
+     <h2>{{msg}}</h2>
+    <br>
+    <div :title="title">鼠标描上去看一下</div>
+    <br>
+    <img :src="url" />
+    <br>
+    {{h}}
+    <br>
+    <div v-html="h"></div>
+    <br>
+    <div v-text="msg"></div>
+    <br>
+    <ul>
+      <li v-for="item in list">
+        {{item}}
+      </li>
+    </ul>
+    <div :class="{'red':flag}">
+      我是一个div
+    </div>
+    <br>
+    <br>
+    <div :class="{'red':flag,'blue':!flag}">
+      我是另一个div
+    </div>
+    <br>
+    <!--循环数据 第一个数据高亮-->
+    <ul>
+      <li v-for="(item,key) in list">
+        {{key}}-----{{item}}
+      </li>
+    </ul>
+    <br>
+    <br>
+    <ul>
+      <li v-for="(item,key) in list" :class="{'red':key==0,'blue':key==1}">
+        {{key}}-----{{item}}
+      </li>
+    </ul>
+    <br>
+     <div class="box" :style="{'width':boxwidth+'px'}">
+        我是第二个div
+     </div>
+    <br>
+
+    <br>
+
+    <br>
+
+
+  </div>
+</template>
+
+<script>
+
+export default {
+  data() {
+    return {
+      msg: "你好vue",
+      title: "我是一个title",
+      url:"https://www.itying.com/themes/itying/images/logo.gif",
+      h:"<h2>我是一个h2</h2>",
+      list:['111','222','333'],
+      flag:false,
+      boxwidth:500,
+    }
+  }
+}
+</script>
+
+<style lang="scss">
+  .red{
+    color:red
+  }
+  .blue{
+    color:blue
+  }
+  .box{
+    width: 100px;
+    height: 100px;
+    background: aqua;
+
+  }
+</style>

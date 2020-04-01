@@ -1,0 +1,51 @@
+<template>
+  <div id="app">
+    <h2>{{msg}}</h2>
+    <br>
+    <input type="text" v-model="msg"/>
+    <button @click="getMsg()">获取表单里的数据</button>
+    <button @click="setMsg()">设置表单的数据set</button>
+
+    <br>
+    <input type="text" ref="userinfo"/>
+    <button @click="getInputValue()">获取第二个表单里面的数据</button>
+    <br>
+    <br>
+    <div ref="box">我是一个box</div>
+
+    <br>
+
+
+  </div>
+</template>
+
+<script>
+
+export default {
+  data() {
+    return {
+      msg: "你好vue",
+    }
+  },
+  methods:{
+    getMsg(){
+       //alert('vue方法执行了');
+      //方法里面获取data里的数据
+      alert(this.msg)
+    },
+    setMsg(){
+      this.msg="我是改变后的数据"
+    },
+    getInputValue(){
+      //获取ref定义的dom节点
+      console.log(this.$refs.userinfo);
+      this.$refs.box.style.background='red';
+      alert(this.$refs.userinfo.value);
+        }
+  }
+}
+</script>
+
+<style lang="scss">
+
+</style>
